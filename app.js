@@ -1,5 +1,5 @@
 var name = "Bimbo";
-var sex = "F";
+var sex = "M";
 var breed = "Shih-Tzu";
 var age = 8;
 var aboutMale = name + ", " + age + " years old " + breed + ", is a good boy!";
